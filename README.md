@@ -4,6 +4,11 @@ How to run:
 
 Clone this repo ```https://github.com/amit4317/django.git```
 
-Move to `dJango` folder.
+Move to `dJango/helloWorld` folder.
+
+run the command:
+```python manage.py runserver```
+
+
 
 
